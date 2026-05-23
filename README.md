@@ -7,6 +7,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19VPLykkaoSFSyeARgS2Q9xa9_KXwj8_c)
 
 *Predicting Air Quality Index of Indian cities using real-world pollutant data*
 
